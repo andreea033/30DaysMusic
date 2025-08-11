@@ -325,7 +325,7 @@ fun TopAppBar(modifier: Modifier = Modifier) {
                     modifier = Modifier
                         .fillMaxWidth()
                         .padding(dimensionResource(R.dimen.padding_small))
-                        .clip(RoundedCornerShape(10.dp)),
+                        .clip(RoundedCornerShape(9.dp)),
 
 
                     painter = painterResource(R.drawable.banner),
